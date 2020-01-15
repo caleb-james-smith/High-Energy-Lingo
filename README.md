@@ -41,6 +41,7 @@ Contributing to this document is the best way to make it more effective. If you 
 ##### B
 * BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
+* BNV - Baryon-Number Violation
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
 * BRM - Beam Radiation & Monitoring for CMS
@@ -69,9 +70,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMS - Compact Muon Solenoid
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
+* CoGeNT - Coherent Germanium Neutrino Technology (dark matter direct detection experiment)
 * COUPP - Chicagoland Observatory for Underground Particle Physics
 * CPM - Central Partition Manager
 * CPU - Central Processing Unit
+* CPV - Charge-Parity Violation
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
@@ -178,6 +181,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * JTAG - Joint Test Action Group
 
 ##### K
+* KLOE - K-LOng Experiment
 
 ##### L
 * L1 - Level 1 trigger
@@ -189,10 +193,12 @@ Contributing to this document is the best way to make it more effective. If you 
 * LBNF - Long-Baseline Neutrino Experiment
 * LCSP - Lightest Colored Supersymmetric Particle
 * LED - Light Emitting Diode
+* LFV - Lepton-Flavour Violation
 * LHC - Large Hadron (Hardon) Collider =D
 * LHCb - Large Hadron Collider beauty
 * LIGO - Laser Interferometer Gravitational-wave Observatory
 * LHCP Conference - LHC Physics Conference
+* LNV - Lepton-Number Violation
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
 * LS1 - Long Shutdown 1
@@ -367,3 +373,4 @@ Contributing to this document is the best way to make it more effective. If you 
 * YETS - Year-End Technical Stop
 
 ##### Z
+* ZEPLIN - ZonEd Proportional scintillation in LIquid Noble gases (dark matter direct detection experiment)
