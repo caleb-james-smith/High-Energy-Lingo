@@ -75,7 +75,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
 * CHIPOTLE - We have Chicken, Hot sauce, and other Ingredients... but Please Order Tacos with Lettuce Every day.
-* CHIPOTLE - Choose How I Produce  Our Tremendous Lunch Entrée
+* CHIPOTLE - Choose How I Produce Our Tremendous Lunch Entrée
 * CHS - Charged Hadron Subtraction
 * ChPT - Chiral Perturbation Theory
 * CIC - Concentrator ASIC
@@ -89,6 +89,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSM - Constrained Minimal Sumpersymmetric Standard Model
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
+* COFFEA - Columnar Object Framework For Effective Analysis
 * COM - center-of-mass
 * COMCAL - Commissioning and Calibration
 * COUPP - Chicagoland Observatory for Underground Particle Physics
