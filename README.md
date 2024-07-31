@@ -421,6 +421,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SR - Search Region
 * SSA - Short Strip ASIC
 * SSC - Superconducting Super Collider (Desertron)
+* SURF - Sanford Underground Research Facility
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
 * SW - Software
