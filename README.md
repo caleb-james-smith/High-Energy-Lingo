@@ -446,7 +446,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TDC - Time to Digital Converter
 * TDR - Technical Design Report
 * TeV - Tera-electronvolt
-* TEPX - Tracker Endcap Pixel
+* TEPX - Tracker Extension Pixel
 * TF - Transfer Factor
 * TFP - Track Finder Processor
 * TFPX - Tracker Forward Pixel
