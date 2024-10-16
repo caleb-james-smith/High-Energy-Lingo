@@ -73,6 +73,7 @@ Contributing to this document is the best way to make it more effective. If you 
 
 ##### C
 * CASPER - Center for Astrophysics, Space Physics, and Engineering Research
+* CAT - Common Analysis Tools
 * CBC - CMS Binary Chip
 * CC7 - CentosOS7
 * cDAQ - Central DAQ
