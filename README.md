@@ -436,6 +436,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
 * SW - Software
+* SWAN - Service for Web based ANalysis
 * SWAPSBMCWNOFAN - South West Airlines Presents the Sam Bein Memorial Chipotle Wednesday Now On Friday At Noon
 * SWAPSBMCWNOFANBIDWTECF - South West Airlines Presents the Sam Bein Memorial Chipotle Wednesday Now On Friday At Noon Because I Don’t Want To Eat Cafeteria Food
 
