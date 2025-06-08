@@ -110,6 +110,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CPT - Charge Parity Time
 * CPU - Central Processing Unit
 * CR - Control Region
+* CROC - CMS Readout Chip
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
@@ -275,6 +276,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * lpGBT - Low-Power Gigabit Transceiver
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
+* LS - Lumi Section
 * LS1 - Long Shutdown 1
 * LS2 - Long Shutdown 2
 * LSP - Lightest Supersymmetric Particle
@@ -452,7 +454,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TF - Transfer Factor
 * TFP - Track Finder Processor
 * TFPX - Tracker Forward Pixel
-* TID - Total Integrated Dose
+* TID - Total Ionizing Dose
 * TLA - Three-Letter Acronym
 * TMVA - Toolkit for Multivariate Data Analysis with ROOT
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
