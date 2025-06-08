@@ -64,6 +64,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * BE - Back-End
 * BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
+* BNV - Baryon-Number Violation
 * BRIL - Beam Radiation, Instrumentation, and Luminosity 
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
@@ -103,6 +104,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
 * COFFEA - Columnar Object Framework For Effective Analysis
+* CoGeNT - Coherent Germanium Neutrino Technology (dark matter direct detection experiment)
 * COM - center-of-mass
 * COMCAL - Commissioning and Calibration
 * COUPP - Chicagoland Observatory for Underground Particle Physics
@@ -111,7 +113,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * CPM - Central Partition Manager
 * CPT - Charge Parity Time
 * CPU - Central Processing Unit
+* CPV - Charge-Parity Violation
 * CR - Control Region
+* CR - Control Room
 * CROC - CMS Readout Chip
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
@@ -252,6 +256,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * JTAG - Joint Test Action Group
 
 ##### K
+* KLOE - K-LOng Experiment
 
 ##### L
 * L1 - Level 1 (Trigger)
@@ -263,8 +268,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * LBNF - Long-Baseline Neutrino Experiment
 * LCSP - Lightest Colored Supersymmetric Particle
 * LED - Light Emitting Diode
-* LEP - Large Electron-Positron
+* LEP - Large Electron-Positron Collider
 * LFSR - Linear-Feedback Shift Register
+* LFV - Lepton-Flavor Violation
 * LGAD - Low Gain Avalanche Diode
 * LHA - Les Houches Accord
 * LHC - Large Hadron Collider
@@ -275,6 +281,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * LINAC - Linear Accelerator
 * LL - Lost Lepton
 * LLP - Long-Lived Particle
+* LNV - Lepton-Number Violation
 * lpGBT - Low-Power Gigabit Transceiver
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
@@ -406,7 +413,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * ROOT - Rene/Rademakers Object Oriented Technology
 * ROOT - Retro Object Oriented Tree
 * RPC - Resistive Plate Chamber
+* RPC - R-Parity Conserving
 * RPi - Raspberry Pi
+* RPV - R-Parity Violating
 * RSO - Radiation Safety Officer
 * RV - Release Validation
 
@@ -497,11 +506,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * XaaS - XDAQ as a Service
 * XDAQ - Cross Data Acquisistion System
 * XGBoost - eXtreme Gradient Boost
-* XMAS -XDAQ Monitoring and Alarming System
+* XMAS - XDAQ Monitoring and Alarming System
 
 ##### Y
 * YETS - Year-End Technical Stop
 
 ##### Z
 * ZDC - Zero Degree Calorimeter
-
+* ZEPLIN - ZonEd Proportional scintillation in LIquid Noble gases (dark matter direct detection experiment)
