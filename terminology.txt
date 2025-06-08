@@ -4,7 +4,7 @@ critical path - needs to be done now, farthest behind, holding up progress for o
 exhaustion - the feeling you get after taking shifts... or helping with TestBeam, CHARM, Sourcing, or CMS installation!
 legacy - originally installed, old system
 next generation (ng) - newly installed (or to be installed), update to legacy, new system
-robust - general, good error handling, works well consistently, well thought out, aplicable, flexible, deals with problems efficiently
+robust - general, good error handling, works well consistently, well thought out, applicable, flexible, deals with problems efficiently
 subtle - challenging, difficult, hard to find and debug, easily overlooked
 fermiaphilic - afraid of fermions, not likely to interact with fermions
 
