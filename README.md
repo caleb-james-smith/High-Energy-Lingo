@@ -1,25 +1,27 @@
 # High Energy Lingo
 
 This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics (HEP).
-It's a work in progress, and likely geared more toward CMS collaborators, especially those working on HCAL. 
+It is primarily focused on the Compact Muon Solenoid (CMS) experiment, especially the Inner Tracker (IT) and the Hadron Calorimeter (HCAL).
 
 ## How to use
 
-The acronyms, data and shorthand are alphabetized on this page.
+The acronyms, abbreviations, and shorthand are alphabetized on this page.
 Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find.
 
-To clone the repository, use these terminal commands from a directory of your choice:
+To clone this repository to your computer, use the following terminal command from a directory of your choice:
 ```
 git clone https://github.com/caleb-james-smith/High-Energy-Lingo.git
+```
+
+Then, you may enter the directory and search the `README.md` file from the command line using grep:
+```
 cd High-Energy-Lingo
-```
-Then, you may search this README.md file from the command line with 
-```
 grep ABC README.md
 ```
-where ABC is the acronym or keyword you wish to find.
+where `ABC` is the acronym or keyword you wish to find.
+
 If a relevant acronym is not listed, please add it when you figure out what it means!
-For instructions, see the next section. 
+For instructions, see the next section.
 
 ### How to contribute
 
