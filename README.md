@@ -1,25 +1,27 @@
 # High Energy Lingo
 
 This is an unofficial guide to the acronyms, abbreviations, and other shorthand used in high energy physics (HEP).
-It's a work in progress, and likely geared more toward CMS collaborators, especially those working on HCAL. 
+It is primarily focused on the Compact Muon Solenoid (CMS) experiment, especially the Inner Tracker (IT) and the Hadron Calorimeter (HCAL).
 
 ## How to use
 
-The acronyms, data and shorthand are alphabetized on this page.
+The acronyms, abbreviations, and shorthand are alphabetized on this page.
 Use *ctrl+f* or *command+f* to search this page for the acronym or keyword you want to find.
 
-To clone the repository, use these terminal commands from a directory of your choice:
+To clone this repository to your computer, use the following terminal command from a directory of your choice:
 ```
 git clone https://github.com/caleb-james-smith/High-Energy-Lingo.git
+```
+
+Then, you may enter the directory and search the `README.md` file from the command line using grep:
+```
 cd High-Energy-Lingo
-```
-Then, you may search this README.md file from the command line with 
-```
 grep ABC README.md
 ```
-where ABC is the acronym or keyword you wish to find.
+where `ABC` is the acronym or keyword you wish to find.
+
 If a relevant acronym is not listed, please add it when you figure out what it means!
-For instructions, see the next section. 
+For instructions, see the next section.
 
 ### How to contribute
 
@@ -62,6 +64,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * BE - Back-End
 * BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
+* BNV - Baryon-Number Violation
 * BRIL - Beam Radiation, Instrumentation, and Luminosity 
 * Brdg - Bridge FPGA
 * BPTX - Beam Pickup Timing for the eXperiment
@@ -101,6 +104,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * CMSSW - CMS SoftWare
 * CNN - Convolutional Neural Network
 * COFFEA - Columnar Object Framework For Effective Analysis
+* CoGeNT - Coherent Germanium Neutrino Technology (dark matter direct detection experiment)
 * COM - center-of-mass
 * COMCAL - Commissioning and Calibration
 * COUPP - Chicagoland Observatory for Underground Particle Physics
@@ -109,7 +113,10 @@ Contributing to this document is the best way to make it more effective. If you 
 * CPM - Central Partition Manager
 * CPT - Charge Parity Time
 * CPU - Central Processing Unit
+* CPV - Charge-Parity Violation
 * CR - Control Region
+* CR - Control Room
+* CROC - CMS Readout Chip
 * CRAB - CMS Remote Analysis Builder
 * CRAFT - Cosmic Run At Four Tesla
 * CRUZET - Cosmic RUn at ZEro Tesla
@@ -249,6 +256,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * JTAG - Joint Test Action Group
 
 ##### K
+* KLOE - K-LOng Experiment
 
 ##### L
 * L1 - Level 1 (Trigger)
@@ -260,8 +268,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * LBNF - Long-Baseline Neutrino Experiment
 * LCSP - Lightest Colored Supersymmetric Particle
 * LED - Light Emitting Diode
-* LEP - Large Electron-Positron
+* LEP - Large Electron-Positron Collider
 * LFSR - Linear-Feedback Shift Register
+* LFV - Lepton-Flavor Violation
 * LGAD - Low Gain Avalanche Diode
 * LHA - Les Houches Accord
 * LHC - Large Hadron Collider
@@ -272,9 +281,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * LINAC - Linear Accelerator
 * LL - Lost Lepton
 * LLP - Long-Lived Particle
+* LNV - Lepton-Number Violation
 * lpGBT - Low-Power Gigabit Transceiver
 * LPC - LHC Physics Center
 * LPM - Local Partition Manager
+* LS - Lumi Section
 * LS1 - Long Shutdown 1
 * LS2 - Long Shutdown 2
 * LSP - Lightest Supersymmetric Particle
@@ -402,7 +413,9 @@ Contributing to this document is the best way to make it more effective. If you 
 * ROOT - Rene/Rademakers Object Oriented Technology
 * ROOT - Retro Object Oriented Tree
 * RPC - Resistive Plate Chamber
+* RPC - R-Parity Conserving
 * RPi - Raspberry Pi
+* RPV - R-Parity Violating
 * RSO - Radiation Safety Officer
 * RV - Release Validation
 
@@ -452,7 +465,7 @@ Contributing to this document is the best way to make it more effective. If you 
 * TF - Transfer Factor
 * TFP - Track Finder Processor
 * TFPX - Tracker Forward Pixel
-* TID - Total Integrated Dose
+* TID - Total Ionizing Dose
 * TLA - Three-Letter Acronym
 * TMVA - Toolkit for Multivariate Data Analysis with ROOT
 * TOTEM - TOTal Elastic and diffractive cross section Measurement
@@ -493,11 +506,11 @@ Contributing to this document is the best way to make it more effective. If you 
 * XaaS - XDAQ as a Service
 * XDAQ - Cross Data Acquisistion System
 * XGBoost - eXtreme Gradient Boost
-* XMAS -XDAQ Monitoring and Alarming System
+* XMAS - XDAQ Monitoring and Alarming System
 
 ##### Y
 * YETS - Year-End Technical Stop
 
 ##### Z
 * ZDC - Zero Degree Calorimeter
-
+* ZEPLIN - ZonEd Proportional scintillation in LIquid Noble gases (dark matter direct detection experiment)
