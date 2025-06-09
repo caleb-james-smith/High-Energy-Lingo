@@ -23,17 +23,15 @@ where `ABC` is the acronym or keyword you wish to find.
 If a relevant acronym is not listed, please add it when you figure out what it means!
 For instructions, see the next section.
 
-### How to contribute
+## How to contribute
 
-Contributing to this document is the best way to make it more effective. If you want to add something, follow either of the following procedures:
+Contributing to this document is the best way to make it more effective.
 
-#### Procedure 1 (preferred):
-* Fork the repository
-* Edit the file to add your data and descriptions; please use alphabetical order
-* Submit a pull request
+If you want to add something, follow this procedure:
 
-#### Procedure 2:
-* Email me your data and descriptions and I will add them as I am available.
+* Fork the repository.
+* Edit the `README.md` to add acronyms and descriptions; please use alphabetical order!
+* Submit a pull request.
 
 ## Acronyms
 
