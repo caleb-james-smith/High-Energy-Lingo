@@ -186,7 +186,7 @@ If you want to add something, follow this procedure:
 * FRU - Field Replaceable Unit
 * FSM - Finite State Machine
 * FSPA - Fermilab Student & Postdoc Association
-* FSR - Final State Radiation
+* FSR - Final-State Radiation
 * FW - Firmware
 * FWLite - CMSSW Framework Light
 
@@ -241,7 +241,7 @@ If you want to add something, follow this procedure:
 * IP - Interaction Point
 * IRC - Infrared and Collinear
 * IRR - Installation Readiness Review
-* ISR - Initial State Radiation
+* ISR - Initial-State Radiation
 * IT - Inner Tracker
 * IVF - Inclusive Vertex Finder
 
