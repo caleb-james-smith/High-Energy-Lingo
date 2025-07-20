@@ -454,6 +454,7 @@ If you want to add something, follow this procedure:
 ##### T
 * TB - Test Beam
 * TBPX - Tracker Barrel Pixel
+* TC - Technical Coordination
 * TCDS - Trigger and Clock Distribution System
 * TCS - Trigger Control System
 * TDC - Time to Digital Converter
