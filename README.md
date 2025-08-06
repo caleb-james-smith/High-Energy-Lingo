@@ -60,6 +60,8 @@ If you want to add something, follow this procedure:
 
 ##### B
 * BE - Back-End
+* BER - Bit Error Rate
+* BERT - Bit Error Rate Test
 * BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
 * BNV - Baryon-Number Violation
@@ -496,6 +498,7 @@ If you want to add something, follow this procedure:
 * VTTx - Versatile Twin Transmitter
 
 ##### W
+* WGM - Weekly General Meeting
 * WIMP - Weakly Interacting Massive Particle
 * WP - Working Point
 * WYSIWYG - What You See Is What You Get
