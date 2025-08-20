@@ -364,6 +364,7 @@ If you want to add something, follow this procedure:
 * Ph1 - Phase 1
 * Ph2 - Phase 2
 * PI - Partition Interface
+* PI - Principal Investigator
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
 * PLD - Programmable Logic Devices
 * PMNS - Pontecorvo-Maki-Nakagawa-Sakata (PMNS matrix)
@@ -448,6 +449,7 @@ If you want to add something, follow this procedure:
 * SURF - Sanford Underground Research Facility
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
+* SVJ - Semi-Visible Jet
 * SW - Software
 * SWAN - Service for Web based ANalysis
 * SWAPSBMCWNOFAN - South West Airlines Presents the Sam Bein Memorial Chipotle Wednesday Now On Friday At Noon
@@ -499,6 +501,7 @@ If you want to add something, follow this procedure:
 
 ##### W
 * WGM - Weekly General Meeting
+* WH - Wilson Hall
 * WIMP - Weakly Interacting Massive Particle
 * WP - Working Point
 * WYSIWYG - What You See Is What You Get
