@@ -85,6 +85,7 @@ If you want to add something, follow this procedure:
 * CDMS - Cryogenic Dark Matter Search
 * CDR - Clock and Data Recovery
 * CDS - CERN Document Server
+* CEPC - Circular Electron Positron Collider
 * CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
