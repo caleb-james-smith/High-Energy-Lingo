@@ -441,6 +441,7 @@ If you want to add something, follow this procedure:
 * SMS - Simplified Model Spectrum
 * SoC - System on a Chip
 * SP - Survival Probability
+* SPPC - Super Proton-Proton Collider
 * SPS - Super Poton Synchrotron
 * SQL - Structured Query Language
 * SR - Special Relativity
