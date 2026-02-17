@@ -60,6 +60,8 @@ If you want to add something, follow this procedure:
 
 ##### B
 * BE - Back-End
+* BER - Bit Error Rate
+* BERT - Bit Error Rate Test
 * BEST - Boosted Event Shape Tagger
 * BDT - Boosted Decision Tree
 * BNV - Baryon-Number Violation
@@ -83,6 +85,7 @@ If you want to add something, follow this procedure:
 * CDMS - Cryogenic Dark Matter Search
 * CDR - Clock and Data Recovery
 * CDS - CERN Document Server
+* CEPC - Circular Electron Positron Collider
 * CERN - European Organization for Nuclear Research, "Conseil Europeen por la Recherche Nucleaire" (French)
 * CF - Cosmic Frontier
 * CHARM Facility - CERN High energy AccelerRator Mixed field Facility
@@ -362,6 +365,7 @@ If you want to add something, follow this procedure:
 * Ph1 - Phase 1
 * Ph2 - Phase 2
 * PI - Partition Interface
+* PI - Principal Investigator
 * PIN diode - diode with Intrinsic semiconductor between P-type and N-type semiconductors
 * PLD - Programmable Logic Devices
 * PMNS - Pontecorvo-Maki-Nakagawa-Sakata (PMNS matrix)
@@ -437,6 +441,7 @@ If you want to add something, follow this procedure:
 * SMS - Simplified Model Spectrum
 * SoC - System on a Chip
 * SP - Survival Probability
+* SPPC - Super Proton-Proton Collider
 * SPS - Super Poton Synchrotron
 * SQL - Structured Query Language
 * SR - Special Relativity
@@ -446,6 +451,7 @@ If you want to add something, follow this procedure:
 * SURF - Sanford Underground Research Facility
 * SUSY - Supersymmetry
 * SV - Secondary Vertex
+* SVJ - Semi-Visible Jet
 * SW - Software
 * SWAN - Service for Web based ANalysis
 * SWAPSBMCWNOFAN - South West Airlines Presents the Sam Bein Memorial Chipotle Wednesday Now On Friday At Noon
@@ -496,6 +502,8 @@ If you want to add something, follow this procedure:
 * VTTx - Versatile Twin Transmitter
 
 ##### W
+* WGM - Weekly General Meeting
+* WH - Wilson Hall
 * WIMP - Weakly Interacting Massive Particle
 * WP - Working Point
 * WYSIWYG - What You See Is What You Get
