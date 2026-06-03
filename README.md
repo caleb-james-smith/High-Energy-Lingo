@@ -442,7 +442,7 @@ If you want to add something, follow this procedure:
 * SoC - System on a Chip
 * SP - Survival Probability
 * SPPC - Super Proton-Proton Collider
-* SPS - Super Poton Synchrotron
+* SPS - Super Proton Synchrotron
 * SQL - Structured Query Language
 * SR - Special Relativity
 * SR - Search Region
